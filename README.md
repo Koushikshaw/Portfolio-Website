@@ -1,2 +1,2 @@
 # Portfolio-Website
-My portfolio website designed and madeby me
+My portfolio website designed and made by me
